@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <title>MY RESUME</title>
 </head>
-<img src="https://web.whatsapp.com/0287786a-57a5-488c-8114-133dd9b6be34">
+<img src="https://www.indiafilings.com/learn/wp-content/uploads/2023/03/Can-a-single-person-own-a-firm-in-India.jpg">
 <body>
   <h1>my resume</h1>
   <ol>
